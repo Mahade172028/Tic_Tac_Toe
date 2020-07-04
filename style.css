@@ -1,0 +1,20 @@
+
+.u{
+	color: yellow;
+	text-align: center;
+}
+.frame table{
+	background-color: aqua;
+	border: 10px solid black;
+	align-content: center;
+	margin-left: 40%;
+}
+table td input[type="button"]{
+	border: 1px solid black;
+	width: 100px;
+	height: 100px;
+}
+body{
+	background-image: url('toe.jpg');
+
+}
